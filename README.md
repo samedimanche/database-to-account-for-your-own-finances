@@ -15,7 +15,9 @@ The program continues to run until the user chooses to exit.
 Finally, the database connection is closed.
 To run the program, you'll need to have Python 3 installed along with the Matplotlib library. You can install Matplotlib using pip:
 
-"pip install matplotlib"
+```
+pip install matplotlib
+```
 
 When you run the program, it will create a new database file named finances.db if it doesn't already exist. You can then add transactions, view them, and generate financial reports with graphs.
 
